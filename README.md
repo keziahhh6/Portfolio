@@ -76,7 +76,7 @@ keziah-design-portfolio/
 *Located in `/brandingkit`*
 
 ### Logo Design
-![Logo](LOGO.png)
+![Logo](Docs/LOGO.png)
 **Reflection**
 My logo represents my personal brand and values. I designed it to reflect creativity, leadership, and purpose while maintaining a clean and professional appearance. Through its simple yet meaningful design, the logo serves as a visual representation of my commitment to thinking critically, solving problems, leading with confidence, and inspiring others.
 
@@ -85,9 +85,8 @@ My logo represents my personal brand and values. I designed it to reflect creati
 ---
 
 ### Portfolio Header
-
+![Logo](Docs/ProfileBanner.png)
 **Reflection**
-
 The portfolio header was created to establish a strong first impression and communicate my personal identity as a designer and aspiring entrepreneur. I focused on balancing visual appeal and readability by combining thoughtful typography, layout, and branding elements that align with my overall design style.
 
 > **Design intent:** *Strong first impression · Readable · On-brand*
@@ -98,7 +97,7 @@ The portfolio header was created to establish a strong first impression and comm
 *Located in `/documents`*
 
 ### Infographic and Written Outputs
-
+![Logo](Visuals/Info.png)
 **Reflection**
 
 The documents and infographics in this section demonstrate my ability to organize information and present it in a clear, structured, and visually appealing format. I focused on simplifying complex ideas through effective use of visuals, typography, and content arrangement to improve readability and audience understanding.
@@ -112,7 +111,7 @@ The documents and infographics in this section demonstrate my ability to organiz
 
 ### Video Introduction
 
-**🔗 Link:** *[Add your video link here]*
+**🔗 Link:** [Prototype](media/Alcano_ Prototyping.docx)
 
 **Reflection**
 
