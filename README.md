@@ -333,40 +333,8 @@ Style specifications:
 
 ---
 
-### SVG Reference Sketch (Structural Description)
+<img width="1254" height="1254" alt="68f200cd-bf89-4a07-b807-e64c2baabc62" src="https://github.com/user-attachments/assets/f2cd0d92-db4d-4326-adca-1072885de907" />
 
-The following ASCII wireframe documents the spatial composition for developer or designer implementation:
-
-```
-        ___________
-       /           \
-      /   [arrow]   \
-     /               \
-    |  [₱]  [FIGURE] |
-    |       holding  |
-    |     [PHONE]    |
-     \  [leaf][leaf] /
-      \    [QR]     /
-       \___________/
-```
-
-**Hexagon frame** — institutional blue stroke, no fill
-**Central figure** — deep navy silhouette, geometric
-**Smartphone** — institutional blue rectangle, peso gold screen accent
-**₱ symbol** — peso gold, bold geometric sans
-**Arrow** — growth green, pointing upper-right at 45°
-**Durian leaves** — growth green, paired symmetrically at base
-**QR square** — deep navy, lower-right of phone screen
-
----
-
-*FinanciaRA Davao — Prompt Playbook v1.0*
-*Prepared for AI Prompt Engineering and Digital Solutions Architecture Portfolio*
-*Davao Region, Philippines | Region XI*
-*Aligned with BSP Digital Payments Transformation Roadmap and DTI-XI MSME Development Programs*
-
-
-<img width="1254" height="1254" alt="68f200cd-bf89-4a07-b807-e64c2baabc62" src="https://github.com/user-attachments/assets/81c53484-6096-4c17-82fb-2414a3dc845f" />
 
 
 # Vetted Literature Matrix & Critique Log: AI-Assisted Review of E-Wallet Adoption in the Philippines — Financial Inclusion Implications and Hallucination Audit Protocol
