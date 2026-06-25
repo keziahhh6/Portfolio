@@ -111,7 +111,7 @@ The documents and infographics in this section demonstrate my ability to organiz
 
 ### Video Introduction
 
-**🔗 Link:** [Prototype](media/Alcano_ Prototyping.docx)
+**🔗 Link:** [Prototype](media/Alcano_Prototyping.docx)
 
 **Reflection**
 
