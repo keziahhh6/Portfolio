@@ -76,7 +76,7 @@ keziah-design-portfolio/
 *Located in `/brandingkit`*
 
 ### Logo Design
-![Logo](Untitleddesign.png)
+![Logo](LOGO.png)
 **Reflection**
 My logo represents my personal brand and values. I designed it to reflect creativity, leadership, and purpose while maintaining a clean and professional appearance. Through its simple yet meaningful design, the logo serves as a visual representation of my commitment to thinking critically, solving problems, leading with confidence, and inspiring others.
 
